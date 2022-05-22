@@ -1,0 +1,665 @@
+,name,price,date
+0,['Oceanview Inn at the Arch'],128,2022-05-01
+1,['Inn at the Sea'],94,2022-05-01
+2,['Adrift Hotel'],134,2022-05-01
+3,['Chautauqua Resort & Conference Center'],155,2022-05-01
+4,['Coastal Inn and Suites'],89,2022-05-01
+5,['Boardwalk Cottages'],134,2022-05-01
+6,['Best Western Long Beach Inn'],123,2022-05-01
+7,['Mermaid Inn'],130,2022-05-01
+8,['The Breakers Long Beach'],199,2022-05-01
+9,['Inn at Discovery Coast'],274,2022-05-01
+10,['Life’s Beach’Inn'],105,2022-05-01
+11,['Shelburne Hotel'],125,2022-05-01
+12,"[""Heidi's Inn""]",85,2022-05-01
+13,['Salt Hotel'],125,2022-05-01
+14,['Col-Pacific Motel'],109,2022-05-01
+15,['At The Helm Hotel'],275,2022-05-01
+16,['Astoria Riverwalk Inn'],142,2022-05-01
+17,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",144,2022-05-01
+18,"['Motel 6-Astoria, OR']",85,2022-05-01
+19,['Best Western Astoria Bayfront Hotel'],132,2022-05-01
+20,['Atomic Motel'],79,2022-05-01
+21,['Columbia Inn'],72,2022-05-01
+22,['Astoria Rivershore Motel'],79,2022-05-01
+23,['Bowline Hotel'],199,2022-05-01
+24,['Adrift Hotel'],134,2022-05-02
+25,['Chautauqua Resort & Conference Center'],155,2022-05-02
+26,['Oceanview Inn at the Arch'],128,2022-05-02
+27,['Coastal Inn and Suites'],89,2022-05-02
+28,['Boardwalk Cottages'],134,2022-05-02
+29,['Best Western Long Beach Inn'],128,2022-05-02
+30,['Inn at Discovery Coast'],189,2022-05-02
+31,['Mermaid Inn'],126,2022-05-02
+32,['The Breakers Long Beach'],199,2022-05-02
+33,['Life’s Beach’Inn'],105,2022-05-02
+34,['Shelburne Hotel'],125,2022-05-02
+35,"[""Heidi's Inn""]",85,2022-05-02
+36,['Salt Hotel'],125,2022-05-02
+37,['Col-Pacific Motel'],104,2022-05-02
+38,['At The Helm Hotel'],275,2022-05-02
+39,['Astoria Riverwalk Inn'],142,2022-05-02
+40,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",149,2022-05-02
+41,"['Motel 6-Astoria, OR']",85,2022-05-02
+42,['Best Western Astoria Bayfront Hotel'],132,2022-05-02
+43,['Atomic Motel'],79,2022-05-02
+44,['Columbia Inn'],72,2022-05-02
+45,['Astoria Rivershore Motel'],79,2022-05-02
+46,['Bowline Hotel'],219,2022-05-02
+47,['Oceanview Inn at the Arch'],136,2022-05-03
+48,['Inn at the Sea'],94,2022-05-03
+49,['Adrift Hotel'],134,2022-05-03
+50,['Chautauqua Resort & Conference Center'],149,2022-05-03
+51,['Coastal Inn and Suites'],89,2022-05-03
+52,['Boardwalk Cottages'],134,2022-05-03
+53,['Best Western Long Beach Inn'],123,2022-05-03
+54,['Mermaid Inn'],117,2022-05-03
+55,['Inn at Discovery Coast'],239,2022-05-03
+56,['The Breakers Long Beach'],199,2022-05-03
+57,['Life’s Beach’Inn'],105,2022-05-03
+58,['Shelburne Hotel'],125,2022-05-03
+59,['Inn at Harbour Village'],139,2022-05-03
+60,"[""Heidi's Inn""]",85,2022-05-03
+61,['Salt Hotel'],125,2022-05-03
+62,['Col-Pacific Motel'],104,2022-05-03
+63,['At The Helm Hotel'],275,2022-05-03
+64,['Astoria Riverwalk Inn'],142,2022-05-03
+65,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",150,2022-05-03
+66,"['Motel 6-Astoria, OR']",85,2022-05-03
+67,['Best Western Astoria Bayfront Hotel'],132,2022-05-03
+68,['Atomic Motel'],79,2022-05-03
+69,['Columbia Inn'],72,2022-05-03
+70,['Bowline Hotel'],199,2022-05-03
+71,['Astoria Rivershore Motel'],79,2022-05-03
+72,['Oceanview Inn at the Arch'],136,2022-05-04
+73,['Inn at the Sea'],94,2022-05-04
+74,['Adrift Hotel'],134,2022-05-04
+75,['Chautauqua Resort & Conference Center'],155,2022-05-04
+76,['Coastal Inn and Suites'],89,2022-05-04
+77,['Boardwalk Cottages'],134,2022-05-04
+78,['Best Western Long Beach Inn'],123,2022-05-04
+79,['Mermaid Inn'],117,2022-05-04
+80,['Inn at Discovery Coast'],269,2022-05-04
+81,['The Breakers Long Beach'],199,2022-05-04
+82,['Life’s Beach’Inn'],105,2022-05-04
+83,['Shelburne Hotel'],125,2022-05-04
+84,['Inn at Harbour Village'],139,2022-05-04
+85,"[""Heidi's Inn""]",85,2022-05-04
+86,['Salt Hotel'],125,2022-05-04
+87,['Col-Pacific Motel'],104,2022-05-04
+88,['At The Helm Hotel'],275,2022-05-04
+89,['Astoria Riverwalk Inn'],142,2022-05-04
+90,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",150,2022-05-04
+91,"['Motel 6-Astoria, OR']",85,2022-05-04
+92,['Best Western Astoria Bayfront Hotel'],132,2022-05-04
+93,['Atomic Motel'],79,2022-05-04
+94,['Columbia Inn'],72,2022-05-04
+95,['Bowline Hotel'],199,2022-05-04
+96,['Astoria Rivershore Motel'],79,2022-05-04
+97,['Oceanview Inn at the Arch'],136,2022-05-05
+98,['Inn at the Sea'],94,2022-05-05
+99,['Adrift Hotel'],134,2022-05-05
+100,['Chautauqua Resort & Conference Center'],175,2022-05-05
+101,['Coastal Inn and Suites'],89,2022-05-05
+102,['Boardwalk Cottages'],138,2022-05-05
+103,['Anchorage Cottages'],150,2022-05-05
+104,['Best Western Long Beach Inn'],123,2022-05-05
+105,['Mermaid Inn'],117,2022-05-05
+106,['Inn at Discovery Coast'],245,2022-05-05
+107,['The Breakers Long Beach'],199,2022-05-05
+108,['Life’s Beach’Inn'],105,2022-05-05
+109,['Shelburne Hotel'],125,2022-05-05
+110,['Inn at Harbour Village'],139,2022-05-05
+111,"[""Heidi's Inn""]",85,2022-05-05
+112,['Salt Hotel'],125,2022-05-05
+113,['Col-Pacific Motel'],104,2022-05-05
+114,['At The Helm Hotel'],275,2022-05-05
+115,['Astoria Riverwalk Inn'],142,2022-05-05
+116,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",151,2022-05-05
+117,"['Motel 6-Astoria, OR']",85,2022-05-05
+118,['Best Western Astoria Bayfront Hotel'],132,2022-05-05
+119,['Atomic Motel'],79,2022-05-05
+120,['Columbia Inn'],72,2022-05-05
+121,['Bowline Hotel'],199,2022-05-05
+122,['Adrift Hotel'],191,2022-05-06
+123,['Chautauqua Resort & Conference Center'],185,2022-05-06
+124,['Coastal Inn and Suites'],129,2022-05-06
+125,['Boardwalk Cottages'],196,2022-05-06
+126,['Best Western Long Beach Inn'],230,2022-05-06
+127,['Inn at Discovery Coast'],283,2022-05-06
+128,['Shelburne Hotel'],161,2022-05-06
+129,['Inn at Harbour Village'],139,2022-05-06
+130,"[""Heidi's Inn""]",102,2022-05-06
+131,['Salt Hotel'],135,2022-05-06
+132,['Col-Pacific Motel'],114,2022-05-06
+133,['At The Helm Hotel'],309,2022-05-06
+134,"['Motel 6-Astoria, OR']",95,2022-05-06
+135,['Best Western Astoria Bayfront Hotel'],180,2022-05-06
+136,['Atomic Motel'],119,2022-05-06
+137,['Columbia Inn'],93,2022-05-06
+138,['Astoria Rivershore Motel'],85,2022-05-06
+139,['Bowline Hotel'],269,2022-05-06
+140,['Inn at the Sea'],179,2022-05-07
+141,['Chautauqua Resort & Conference Center'],185,2022-05-07
+142,['Adrift Hotel'],272,2022-05-07
+143,['Coastal Inn and Suites'],169,2022-05-07
+144,['Best Western Long Beach Inn'],195,2022-05-07
+145,['Inn at Discovery Coast'],323,2022-05-07
+146,['Shelburne Hotel'],179,2022-05-07
+147,['Inn at Harbour Village'],159,2022-05-07
+148,"[""Heidi's Inn""]",102,2022-05-07
+149,['Salt Hotel'],135,2022-05-07
+150,['Col-Pacific Motel'],114,2022-05-07
+151,['At The Helm Hotel'],309,2022-05-07
+152,"['Motel 6-Astoria, OR']",95,2022-05-07
+153,['Best Western Astoria Bayfront Hotel'],194,2022-05-07
+154,['Atomic Motel'],149,2022-05-07
+155,['Astoria Rivershore Motel'],125,2022-05-07
+156,['Bowline Hotel'],279,2022-05-07
+157,['Inn at the Sea'],94,2022-05-08
+158,['Adrift Hotel'],134,2022-05-08
+159,['Chautauqua Resort & Conference Center'],155,2022-05-08
+160,['Oceanview Inn at the Arch'],136,2022-05-08
+161,['Coastal Inn and Suites'],89,2022-05-08
+162,['Best Western Long Beach Inn'],136,2022-05-08
+163,['Boardwalk Cottages'],199,2022-05-08
+164,['Inn at Discovery Coast'],205,2022-05-08
+165,['Mermaid Inn'],117,2022-05-08
+166,['The Breakers Long Beach'],199,2022-05-08
+167,['Lighthouse Oceanfront Resort'],179,2022-05-08
+168,['Life’s Beach’Inn'],105,2022-05-08
+169,['Shelburne Hotel'],125,2022-05-08
+170,['Inn at Harbour Village'],139,2022-05-08
+171,"[""Heidi's Inn""]",85,2022-05-08
+172,['Salt Hotel'],125,2022-05-08
+173,['Col-Pacific Motel'],109,2022-05-08
+174,['At The Helm Hotel'],275,2022-05-08
+175,['Astoria Riverwalk Inn'],142,2022-05-08
+176,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",156,2022-05-08
+177,['Best Western Astoria Bayfront Hotel'],141,2022-05-08
+178,['Atomic Motel'],79,2022-05-08
+179,['Columbia Inn'],72,2022-05-08
+180,['Bowline Hotel'],199,2022-05-08
+181,['Astoria Rivershore Motel'],79,2022-05-08
+182,['Oceanview Inn at the Arch'],136,2022-05-09
+183,['Inn at the Sea'],94,2022-05-09
+184,['Adrift Hotel'],134,2022-05-09
+185,['Chautauqua Resort & Conference Center'],155,2022-05-09
+186,['Coastal Inn and Suites'],89,2022-05-09
+187,['Boardwalk Cottages'],134,2022-05-09
+188,['Best Western Long Beach Inn'],136,2022-05-09
+189,['Mermaid Inn'],126,2022-05-09
+190,['Inn at Discovery Coast'],266,2022-05-09
+191,['The Breakers Long Beach'],199,2022-05-09
+192,['Lighthouse Oceanfront Resort'],179,2022-05-09
+193,['Life’s Beach’Inn'],105,2022-05-09
+194,['Shelburne Hotel'],125,2022-05-09
+195,['Inn at Harbour Village'],139,2022-05-09
+196,"[""Heidi's Inn""]",85,2022-05-09
+197,['Salt Hotel'],125,2022-05-09
+198,['Col-Pacific Motel'],129,2022-05-09
+199,['At The Helm Hotel'],275,2022-05-09
+200,['The Sea Glass Cottage'],73,2022-05-09
+201,['Astoria Riverwalk Inn'],142,2022-05-09
+202,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",168,2022-05-09
+203,"['Motel 6-Astoria, OR']",85,2022-05-09
+204,['Best Western Astoria Bayfront Hotel'],141,2022-05-09
+205,['Atomic Motel'],79,2022-05-09
+206,['Columbia Inn'],72,2022-05-09
+207,['Oceanview Inn at the Arch'],136,2022-05-10
+208,['Inn at the Sea'],94,2022-05-10
+209,['Adrift Hotel'],134,2022-05-10
+210,['Chautauqua Resort & Conference Center'],149,2022-05-10
+211,['Coastal Inn and Suites'],89,2022-05-10
+212,['Boardwalk Cottages'],134,2022-05-10
+213,['Anchorage Cottages'],150,2022-05-10
+214,['Best Western Long Beach Inn'],136,2022-05-10
+215,['Mermaid Inn'],117,2022-05-10
+216,['Inn at Discovery Coast'],287,2022-05-10
+217,['The Breakers Long Beach'],199,2022-05-10
+218,['Life’s Beach’Inn'],105,2022-05-10
+219,['Shelburne Hotel'],125,2022-05-10
+220,['Inn at Harbour Village'],139,2022-05-10
+221,"[""Heidi's Inn""]",85,2022-05-10
+222,['Salt Hotel'],125,2022-05-10
+223,['Col-Pacific Motel'],149,2022-05-10
+224,['At The Helm Hotel'],275,2022-05-10
+225,['The Sea Glass Cottage'],73,2022-05-10
+226,['Astoria Riverwalk Inn'],142,2022-05-10
+227,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",158,2022-05-10
+228,"['Motel 6-Astoria, OR']",85,2022-05-10
+229,['Best Western Astoria Bayfront Hotel'],141,2022-05-10
+230,['Atomic Motel'],79,2022-05-10
+231,['Columbia Inn'],72,2022-05-10
+232,['Oceanview Inn at the Arch'],136,2022-05-11
+233,['Inn at the Sea'],99,2022-05-11
+234,['Adrift Hotel'],134,2022-05-11
+235,['Chautauqua Resort & Conference Center'],155,2022-05-11
+236,['Boardwalk Cottages'],134,2022-05-11
+237,['Coastal Inn and Suites'],89,2022-05-11
+238,['Best Western Long Beach Inn'],136,2022-05-11
+239,['Mermaid Inn'],117,2022-05-11
+240,['Inn at Discovery Coast'],254,2022-05-11
+241,['The Breakers Long Beach'],199,2022-05-11
+242,['Shore View Apartments'],159,2022-05-11
+243,['Life’s Beach’Inn'],105,2022-05-11
+244,['Shelburne Hotel'],125,2022-05-11
+245,['Inn at Harbour Village'],139,2022-05-11
+246,"[""Heidi's Inn""]",85,2022-05-11
+247,['At The Helm Hotel'],275,2022-05-11
+248,['The Sea Glass Cottage'],73,2022-05-11
+249,['Astoria Riverwalk Inn'],142,2022-05-11
+250,"['Motel 6-Astoria, OR']",85,2022-05-11
+251,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",184,2022-05-11
+252,['Best Western Astoria Bayfront Hotel'],141,2022-05-11
+253,['Atomic Motel'],79,2022-05-11
+254,['Columbia Inn'],72,2022-05-11
+255,['Bowline Hotel'],199,2022-05-11
+256,['Astoria Rivershore Motel'],79,2022-05-11
+257,['Oceanview Inn at the Arch'],160,2022-05-12
+258,['Inn at the Sea'],99,2022-05-12
+259,['Adrift Hotel'],134,2022-05-12
+260,['Chautauqua Resort & Conference Center'],155,2022-05-12
+261,['Boardwalk Cottages'],134,2022-05-12
+262,['Coastal Inn and Suites'],89,2022-05-12
+263,['Best Western Long Beach Inn'],160,2022-05-12
+264,['Mermaid Inn'],130,2022-05-12
+265,['Inn at Discovery Coast'],273,2022-05-12
+266,['The Breakers Long Beach'],199,2022-05-12
+267,['Shore View Apartments'],159,2022-05-12
+268,['Life’s Beach’Inn'],105,2022-05-12
+269,['Shelburne Hotel'],125,2022-05-12
+270,['Inn at Harbour Village'],139,2022-05-12
+271,"[""Heidi's Inn""]",85,2022-05-12
+272,['Salt Hotel'],125,2022-05-12
+273,['At The Helm Hotel'],275,2022-05-12
+274,['Col-Pacific Motel'],149,2022-05-12
+275,['The Sea Glass Cottage'],73,2022-05-12
+276,['Astoria Riverwalk Inn'],142,2022-05-12
+277,"['Motel 6-Astoria, OR']",85,2022-05-12
+278,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",184,2022-05-12
+279,['Best Western Astoria Bayfront Hotel'],160,2022-05-12
+280,['Atomic Motel'],79,2022-05-12
+281,['Columbia Inn'],72,2022-05-12
+282,['Adrift Hotel'],205,2022-05-13
+283,['Chautauqua Resort & Conference Center'],175,2022-05-13
+284,['Coastal Inn and Suites'],129,2022-05-13
+285,['Anchorage Cottages'],150,2022-05-13
+286,['Boardwalk Cottages'],200,2022-05-13
+287,['Best Western Long Beach Inn'],230,2022-05-13
+288,['Inn at Discovery Coast'],237,2022-05-13
+289,['The Breakers Long Beach'],199,2022-05-13
+290,['Shelburne Hotel'],161,2022-05-13
+291,['Inn at Harbour Village'],139,2022-05-13
+292,"[""Heidi's Inn""]",102,2022-05-13
+293,['At The Helm Hotel'],309,2022-05-13
+294,"['Motel 6-Astoria, OR']",95,2022-05-13
+295,['Best Western Astoria Bayfront Hotel'],265,2022-05-13
+296,['Atomic Motel'],119,2022-05-13
+297,['Columbia Inn'],93,2022-05-13
+298,['Astoria Rivershore Motel'],129,2022-05-13
+299,['Bowline Hotel'],289,2022-05-13
+300,['Inn at the Sea'],184,2022-05-14
+301,['Chautauqua Resort & Conference Center'],175,2022-05-14
+302,['Adrift Hotel'],249,2022-05-14
+303,['Coastal Inn and Suites'],169,2022-05-14
+304,['Boardwalk Cottages'],272,2022-05-14
+305,['Best Western Long Beach Inn'],230,2022-05-14
+306,['Inn at Discovery Coast'],272,2022-05-14
+307,['The Breakers Long Beach'],199,2022-05-14
+308,['Shelburne Hotel'],179,2022-05-14
+309,['Inn at Harbour Village'],159,2022-05-14
+310,"[""Heidi's Inn""]",105,2022-05-14
+311,['At The Helm Hotel'],309,2022-05-14
+312,"['Motel 6-Astoria, OR']",95,2022-05-14
+313,['Best Western Astoria Bayfront Hotel'],295,2022-05-14
+314,['Atomic Motel'],149,2022-05-14
+315,['Astoria Rivershore Motel'],139,2022-05-14
+316,['Bowline Hotel'],309,2022-05-14
+317,['Inn at the Sea'],99,2022-05-15
+318,['Adrift Hotel'],139,2022-05-15
+319,['Chautauqua Resort & Conference Center'],155,2022-05-15
+320,['Oceanview Inn at the Arch'],136,2022-05-15
+321,['Boardwalk Cottages'],154,2022-05-15
+322,['Coastal Inn and Suites'],89,2022-05-15
+323,['Inn at Discovery Coast'],218,2022-05-15
+324,['The Breakers Long Beach'],199,2022-05-15
+325,['Best Western Long Beach Inn'],136,2022-05-15
+326,['Lighthouse Oceanfront Resort'],179,2022-05-15
+327,['Shelburne Hotel'],125,2022-05-15
+328,['Inn at Harbour Village'],139,2022-05-15
+329,"[""Heidi's Inn""]",85,2022-05-15
+330,['Salt Hotel'],125,2022-05-15
+331,['At The Helm Hotel'],275,2022-05-15
+332,['Col-Pacific Motel'],129,2022-05-15
+333,['Astoria Riverwalk Inn'],151,2022-05-15
+334,"['Motel 6-Astoria, OR']",85,2022-05-15
+335,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",179,2022-05-15
+336,['Best Western Astoria Bayfront Hotel'],141,2022-05-15
+337,['Atomic Motel'],79,2022-05-15
+338,['Columbia Inn'],72,2022-05-15
+339,['Bowline Hotel'],209,2022-05-15
+340,['Astoria Rivershore Motel'],79,2022-05-15
+341,['Inn at the Sea'],99,2022-05-16
+342,['Adrift Hotel'],134,2022-05-16
+343,['Chautauqua Resort & Conference Center'],155,2022-05-16
+344,['Oceanview Inn at the Arch'],136,2022-05-16
+345,['Boardwalk Cottages'],134,2022-05-16
+346,['Coastal Inn and Suites'],89,2022-05-16
+347,['Mermaid Inn'],117,2022-05-16
+348,['Inn at Discovery Coast'],242,2022-05-16
+349,['The Breakers Long Beach'],199,2022-05-16
+350,['Best Western Long Beach Inn'],136,2022-05-16
+351,['Lighthouse Oceanfront Resort'],179,2022-05-16
+352,['Shelburne Hotel'],125,2022-05-16
+353,['Inn at Harbour Village'],139,2022-05-16
+354,"[""Heidi's Inn""]",85,2022-05-16
+355,['Salt Hotel'],125,2022-05-16
+356,['At The Helm Hotel'],275,2022-05-16
+357,['Col-Pacific Motel'],109,2022-05-16
+358,['Astoria Riverwalk Inn'],151,2022-05-16
+359,"['Motel 6-Astoria, OR']",85,2022-05-16
+360,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",170,2022-05-16
+361,['Best Western Astoria Bayfront Hotel'],141,2022-05-16
+362,['Atomic Motel'],79,2022-05-16
+363,['Columbia Inn'],72,2022-05-16
+364,['Bowline Hotel'],199,2022-05-16
+365,['Astoria Rivershore Motel'],79,2022-05-16
+366,['Adrift Hotel'],138,2022-05-17
+367,['Oceanview Inn at the Arch'],130,2022-05-17
+368,['Boardwalk Cottages'],134,2022-05-17
+369,['Coastal Inn and Suites'],89,2022-05-17
+370,['Anchorage Cottages'],132,2022-05-17
+371,['Chautauqua Resort & Conference Center'],149,2022-05-17
+372,['Mermaid Inn'],117,2022-05-17
+373,['Inn at Discovery Coast'],255,2022-05-17
+374,['The Breakers Long Beach'],199,2022-05-17
+375,['Best Western Long Beach Inn'],136,2022-05-17
+376,['Lighthouse Oceanfront Resort'],179,2022-05-17
+377,['Shelburne Hotel'],125,2022-05-17
+378,['Inn at Harbour Village'],139,2022-05-17
+379,"[""Heidi's Inn""]",85,2022-05-17
+380,['Salt Hotel'],125,2022-05-17
+381,['At The Helm Hotel'],275,2022-05-17
+382,['Col-Pacific Motel'],109,2022-05-17
+383,['Astoria Riverwalk Inn'],151,2022-05-17
+384,"['Motel 6-Astoria, OR']",85,2022-05-17
+385,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",170,2022-05-17
+386,['Best Western Astoria Bayfront Hotel'],145,2022-05-17
+387,['Atomic Motel'],79,2022-05-17
+388,['Columbia Inn'],72,2022-05-17
+389,['Bowline Hotel'],199,2022-05-17
+390,['Adrift Hotel'],134,2022-05-18
+391,['Oceanview Inn at the Arch'],145,2022-05-18
+392,['Chautauqua Resort & Conference Center'],175,2022-05-18
+393,['Boardwalk Cottages'],134,2022-05-18
+394,['Coastal Inn and Suites'],89,2022-05-18
+395,['Anchorage Cottages'],132,2022-05-18
+396,['Mermaid Inn'],117,2022-05-18
+397,['Inn at Discovery Coast'],276,2022-05-18
+398,['The Breakers Long Beach'],199,2022-05-18
+399,['Best Western Long Beach Inn'],136,2022-05-18
+400,['Lighthouse Oceanfront Resort'],179,2022-05-18
+401,['Shelburne Hotel'],125,2022-05-18
+402,['Inn at Harbour Village'],139,2022-05-18
+403,"[""Heidi's Inn""]",85,2022-05-18
+404,['Salt Hotel'],125,2022-05-18
+405,['At The Helm Hotel'],275,2022-05-18
+406,['Col-Pacific Motel'],109,2022-05-18
+407,['Astoria Riverwalk Inn'],151,2022-05-18
+408,"['Motel 6-Astoria, OR']",85,2022-05-18
+409,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",170,2022-05-18
+410,['Best Western Astoria Bayfront Hotel'],145,2022-05-18
+411,['Atomic Motel'],79,2022-05-18
+412,['Columbia Inn'],72,2022-05-18
+413,['Bowline Hotel'],199,2022-05-18
+414,['Inn at the Sea'],94,2022-05-19
+415,['Adrift Hotel'],134,2022-05-19
+416,['Chautauqua Resort & Conference Center'],155,2022-05-19
+417,['Oceanview Inn at the Arch'],145,2022-05-19
+418,['Boardwalk Cottages'],142,2022-05-19
+419,['Coastal Inn and Suites'],89,2022-05-19
+420,['Anchorage Cottages'],132,2022-05-19
+421,['Mermaid Inn'],117,2022-05-19
+422,['Inn at Discovery Coast'],256,2022-05-19
+423,['The Breakers Long Beach'],199,2022-05-19
+424,['Best Western Long Beach Inn'],136,2022-05-19
+425,['Lighthouse Oceanfront Resort'],179,2022-05-19
+426,['Shelburne Hotel'],133,2022-05-19
+427,['Inn at Harbour Village'],139,2022-05-19
+428,"[""Heidi's Inn""]",85,2022-05-19
+429,['Salt Hotel'],125,2022-05-19
+430,['At The Helm Hotel'],275,2022-05-19
+431,['Col-Pacific Motel'],109,2022-05-19
+432,['The Sea Glass Cottage'],74,2022-05-19
+433,['Astoria Riverwalk Inn'],151,2022-05-19
+434,"['Motel 6-Astoria, OR']",85,2022-05-19
+435,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",180,2022-05-19
+436,['Best Western Astoria Bayfront Hotel'],158,2022-05-19
+437,['Atomic Motel'],79,2022-05-19
+438,['Columbia Inn'],72,2022-05-19
+439,['Inn at the Sea'],129,2022-05-20
+440,['Adrift Hotel'],213,2022-05-20
+441,['Chautauqua Resort & Conference Center'],195,2022-05-20
+442,['Anchorage Cottages'],160,2022-05-20
+443,['Coastal Inn and Suites'],129,2022-05-20
+444,['Boardwalk Cottages'],222,2022-05-20
+445,['Best Western Long Beach Inn'],230,2022-05-20
+446,['Inn at Discovery Coast'],262,2022-05-20
+447,['The Breakers Long Beach'],199,2022-05-20
+448,['Lighthouse Oceanfront Resort'],264,2022-05-20
+449,['Shelburne Hotel'],160,2022-05-20
+450,['Inn at Harbour Village'],139,2022-05-20
+451,"[""Heidi's Inn""]",102,2022-05-20
+452,['Salt Hotel'],135,2022-05-20
+453,['Col-Pacific Motel'],129,2022-05-20
+454,['At The Helm Hotel'],309,2022-05-20
+455,"['Motel 6-Astoria, OR']",95,2022-05-20
+456,['Best Western Astoria Bayfront Hotel'],295,2022-05-20
+457,['Atomic Motel'],119,2022-05-20
+458,['Astoria Rivershore Motel'],129,2022-05-20
+459,['Bowline Hotel'],279,2022-05-20
+460,['Adrift Hotel'],238,2022-05-21
+461,['Coastal Inn and Suites'],169,2022-05-21
+462,['Boardwalk Cottages'],222,2022-05-21
+463,['Chautauqua Resort & Conference Center'],185,2022-05-21
+464,['Inn at Discovery Coast'],283,2022-05-21
+465,['The Breakers Long Beach'],199,2022-05-21
+466,['Best Western Long Beach Inn'],195,2022-05-21
+467,['Shelburne Hotel'],179,2022-05-21
+468,['Inn at Harbour Village'],159,2022-05-21
+469,"[""Heidi's Inn""]",102,2022-05-21
+470,['At The Helm Hotel'],309,2022-05-21
+471,['Col-Pacific Motel'],119,2022-05-21
+472,"['Motel 6-Astoria, OR']",95,2022-05-21
+473,['Best Western Astoria Bayfront Hotel'],260,2022-05-21
+474,['Bowline Hotel'],299,2022-05-21
+475,['Inn at the Sea'],94,2022-05-22
+476,['Adrift Hotel'],134,2022-05-22
+477,['Chautauqua Resort & Conference Center'],155,2022-05-22
+478,['Oceanview Inn at the Arch'],145,2022-05-22
+479,['Boardwalk Cottages'],154,2022-05-22
+480,['Coastal Inn and Suites'],89,2022-05-22
+481,['Anchorage Cottages'],132,2022-05-22
+482,['Mermaid Inn'],117,2022-05-22
+483,['Inn at Discovery Coast'],264,2022-05-22
+484,['The Breakers Long Beach'],199,2022-05-22
+485,['Best Western Long Beach Inn'],136,2022-05-22
+486,['Lighthouse Oceanfront Resort'],179,2022-05-22
+487,['Shelburne Hotel'],125,2022-05-22
+488,['Inn at Harbour Village'],139,2022-05-22
+489,"[""Heidi's Inn""]",85,2022-05-22
+490,['Salt Hotel'],125,2022-05-22
+491,['At The Helm Hotel'],275,2022-05-22
+492,['Col-Pacific Motel'],109,2022-05-22
+493,['Astoria Riverwalk Inn'],142,2022-05-22
+494,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",165,2022-05-22
+495,"['Motel 6-Astoria, OR']",85,2022-05-22
+496,['Best Western Astoria Bayfront Hotel'],145,2022-05-22
+497,['Atomic Motel'],79,2022-05-22
+498,['Columbia Inn'],72,2022-05-22
+499,['Bowline Hotel'],199,2022-05-22
+500,['Inn at the Sea'],94,2022-05-23
+501,['Adrift Hotel'],134,2022-05-23
+502,['Chautauqua Resort & Conference Center'],155,2022-05-23
+503,['Oceanview Inn at the Arch'],145,2022-05-23
+504,['Coastal Inn and Suites'],89,2022-05-23
+505,['Anchorage Cottages'],150,2022-05-23
+506,['Boardwalk Cottages'],174,2022-05-23
+507,['Mermaid Inn'],117,2022-05-23
+508,['Inn at Discovery Coast'],250,2022-05-23
+509,['The Breakers Long Beach'],199,2022-05-23
+510,['Best Western Long Beach Inn'],136,2022-05-23
+511,['Lighthouse Oceanfront Resort'],179,2022-05-23
+512,['Shelburne Hotel'],125,2022-05-23
+513,['Inn at Harbour Village'],139,2022-05-23
+514,"[""Heidi's Inn""]",85,2022-05-23
+515,['Salt Hotel'],125,2022-05-23
+516,['At The Helm Hotel'],275,2022-05-23
+517,['Col-Pacific Motel'],109,2022-05-23
+518,['Astoria Riverwalk Inn'],142,2022-05-23
+519,"['Motel 6-Astoria, OR']",85,2022-05-23
+520,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",170,2022-05-23
+521,['Best Western Astoria Bayfront Hotel'],145,2022-05-23
+522,['Atomic Motel'],79,2022-05-23
+523,['Columbia Inn'],72,2022-05-23
+524,['Bowline Hotel'],199,2022-05-23
+525,['Inn at the Sea'],99,2022-05-24
+526,['Adrift Hotel'],144,2022-05-24
+527,['Chautauqua Resort & Conference Center'],155,2022-05-24
+528,['Boardwalk Cottages'],134,2022-05-24
+529,['Coastal Inn and Suites'],89,2022-05-24
+530,['Best Western Long Beach Inn'],160,2022-05-24
+531,['Mermaid Inn'],117,2022-05-24
+532,['Inn at Discovery Coast'],276,2022-05-24
+533,['The Breakers Long Beach'],199,2022-05-24
+534,['Lighthouse Oceanfront Resort'],179,2022-05-24
+535,['Shelburne Hotel'],125,2022-05-24
+536,['Inn at Harbour Village'],139,2022-05-24
+537,"[""Heidi's Inn""]",85,2022-05-24
+538,['Salt Hotel'],125,2022-05-24
+539,['Col-Pacific Motel'],119,2022-05-24
+540,['At The Helm Hotel'],275,2022-05-24
+541,['Astoria Riverwalk Inn'],142,2022-05-24
+542,"['Motel 6-Astoria, OR']",85,2022-05-24
+543,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",170,2022-05-24
+544,['Best Western Astoria Bayfront Hotel'],165,2022-05-24
+545,['Atomic Motel'],79,2022-05-24
+546,['Columbia Inn'],72,2022-05-24
+547,['Bowline Hotel'],199,2022-05-24
+548,['Astoria Rivershore Motel'],79,2022-05-24
+549,['Adrift Hotel'],161,2022-05-25
+550,['Chautauqua Resort & Conference Center'],155,2022-05-25
+551,['Boardwalk Cottages'],134,2022-05-25
+552,['Coastal Inn and Suites'],89,2022-05-25
+553,['Oceanview Inn at the Arch'],170,2022-05-25
+554,['Best Western Long Beach Inn'],160,2022-05-25
+555,['Mermaid Inn'],117,2022-05-25
+556,['Inn at Discovery Coast'],256,2022-05-25
+557,['The Breakers Long Beach'],199,2022-05-25
+558,['Lighthouse Oceanfront Resort'],179,2022-05-25
+559,['Inn at Harbour Village'],139,2022-05-25
+560,"[""Heidi's Inn""]",85,2022-05-25
+561,['Salt Hotel'],125,2022-05-25
+562,['Col-Pacific Motel'],119,2022-05-25
+563,['At The Helm Hotel'],275,2022-05-25
+564,['Astoria Riverwalk Inn'],142,2022-05-25
+565,"['Motel 6-Astoria, OR']",85,2022-05-25
+566,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",170,2022-05-25
+567,['Best Western Astoria Bayfront Hotel'],165,2022-05-25
+568,['Atomic Motel'],79,2022-05-25
+569,['Columbia Inn'],72,2022-05-25
+570,['Bowline Hotel'],199,2022-05-25
+571,['Astoria Rivershore Motel'],79,2022-05-25
+572,['Inn at the Sea'],99,2022-05-26
+573,['Adrift Hotel'],134,2022-05-26
+574,['Chautauqua Resort & Conference Center'],155,2022-05-26
+575,['Boardwalk Cottages'],150,2022-05-26
+576,['Coastal Inn and Suites'],89,2022-05-26
+577,['Mermaid Inn'],117,2022-05-26
+578,['Inn at Discovery Coast'],248,2022-05-26
+579,['Oceanview Inn at the Arch'],145,2022-05-26
+580,['The Breakers Long Beach'],199,2022-05-26
+581,['Best Western Long Beach Inn'],136,2022-05-26
+582,['Lighthouse Oceanfront Resort'],179,2022-05-26
+583,['Shelburne Hotel'],125,2022-05-26
+584,['Inn at Harbour Village'],139,2022-05-26
+585,"[""Heidi's Inn""]",85,2022-05-26
+586,['Salt Hotel'],125,2022-05-26
+587,['At The Helm Hotel'],275,2022-05-26
+588,['Col-Pacific Motel'],139,2022-05-26
+589,['Astoria Riverwalk Inn'],142,2022-05-26
+590,"['Motel 6-Astoria, OR']",85,2022-05-26
+591,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",179,2022-05-26
+592,['Best Western Astoria Bayfront Hotel'],145,2022-05-26
+593,['Atomic Motel'],71,2022-05-26
+594,['Columbia Inn'],72,2022-05-26
+595,['Bowline Hotel'],199,2022-05-26
+596,['Astoria Rivershore Motel'],79,2022-05-26
+597,['Inn at the Sea'],189,2022-05-27
+598,['Adrift Hotel'],228,2022-05-27
+599,['Coastal Inn and Suites'],149,2022-05-27
+600,['Inn at Discovery Coast'],262,2022-05-27
+601,['Best Western Long Beach Inn'],300,2022-05-27
+602,['Shelburne Hotel'],161,2022-05-27
+603,"[""Heidi's Inn""]",102,2022-05-27
+604,['Col-Pacific Motel'],149,2022-05-27
+605,['At The Helm Hotel'],309,2022-05-27
+606,"['Motel 6-Astoria, OR']",95,2022-05-27
+607,['Best Western Astoria Bayfront Hotel'],275,2022-05-27
+608,['Atomic Motel'],170,2022-05-27
+609,['Bowline Hotel'],289,2022-05-27
+610,['Astoria Rivershore Motel'],159,2022-05-27
+611,['Adrift Hotel'],289,2022-05-28
+612,['Inn at Discovery Coast'],417,2022-05-28
+613,['Best Western Long Beach Inn'],255,2022-05-28
+614,['Shelburne Hotel'],228,2022-05-28
+615,"[""Heidi's Inn""]",102,2022-05-28
+616,['Col-Pacific Motel'],149,2022-05-28
+617,['At The Helm Hotel'],309,2022-05-28
+618,"['Motel 6-Astoria, OR']",95,2022-05-28
+619,['Best Western Astoria Bayfront Hotel'],242,2022-05-28
+620,['Columbia Inn'],83,2022-05-28
+621,['Bowline Hotel'],309,2022-05-28
+622,['Oceanview Inn at the Arch'],190,2022-05-29
+623,['Inn at the Sea'],179,2022-05-29
+624,['Adrift Hotel'],246,2022-05-29
+625,['Coastal Inn and Suites'],179,2022-05-29
+626,['Boardwalk Cottages'],271,2022-05-29
+627,['Best Western Long Beach Inn'],230,2022-05-29
+628,['The Breakers Long Beach'],199,2022-05-29
+629,['Inn at Discovery Coast'],438,2022-05-29
+630,['Shelburne Hotel'],179,2022-05-29
+631,"[""Heidi's Inn""]",85,2022-05-29
+632,['Salt Hotel'],125,2022-05-29
+633,['Col-Pacific Motel'],149,2022-05-29
+634,['At The Helm Hotel'],275,2022-05-29
+635,"['Motel 6-Astoria, OR']",85,2022-05-29
+636,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",284,2022-05-29
+637,['Best Western Astoria Bayfront Hotel'],275,2022-05-29
+638,['Columbia Inn'],83,2022-05-29
+639,['Atomic Motel'],188,2022-05-29
+640,['Astoria Rivershore Motel'],169,2022-05-29
+641,['Bowline Hotel'],309,2022-05-29
+642,['Oceanview Inn at the Arch'],170,2022-05-30
+643,['Inn at the Sea'],99,2022-05-30
+644,['Adrift Hotel'],134,2022-05-30
+645,['Boardwalk Cottages'],134,2022-05-30
+646,['Coastal Inn and Suites'],94,2022-05-30
+647,['Inn at Discovery Coast'],195,2022-05-30
+648,['Best Western Long Beach Inn'],230,2022-05-30
+649,['The Breakers Long Beach'],199,2022-05-30
+650,['Lighthouse Oceanfront Resort'],179,2022-05-30
+651,['Shelburne Hotel'],134,2022-05-30
+652,"[""Heidi's Inn""]",85,2022-05-30
+653,['Salt Hotel'],125,2022-05-30
+654,['Col-Pacific Motel'],139,2022-05-30
+655,['At The Helm Hotel'],286,2022-05-30
+656,['Astoria Riverwalk Inn'],151,2022-05-30
+657,"['Motel 6-Astoria, OR']",85,2022-05-30
+658,"['Holiday Inn Express Hotel & Suites Astoria, an IHG Hotel']",170,2022-05-30
+659,['Best Western Astoria Bayfront Hotel'],205,2022-05-30
+660,['Atomic Motel'],89,2022-05-30
+661,['Columbia Inn'],72,2022-05-30
+662,['Bowline Hotel'],199,2022-05-30
+663,['Astoria Rivershore Motel'],79,2022-05-30

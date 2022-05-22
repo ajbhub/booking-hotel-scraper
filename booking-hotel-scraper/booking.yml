@@ -1,0 +1,19 @@
+box:
+    css: 'div.a826ba81c4:nth-of-type(n+3)'
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        name:
+            css: div.fcab3ed991
+            xpath: null
+            multiple: true
+            type: Text
+        price:
+            css: span.fcab3ed991
+            xpath: null
+            multiple: true
+            type: Text
+
+
+
